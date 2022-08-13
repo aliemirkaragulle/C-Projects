@@ -1,0 +1,6 @@
+1. Ask for Height.
+2.    If height is less than 1 or bigger than 8, ask again.
+3.    If not, assign height to a variable, simply n.
+4. Create a loop which will iterate n times. (Create a variable i and iterate i by n number of times since n is our height).
+5.    Create a nested loop which will prints #'s equal to i on each iteration. (First Iteration = #, Second Iteration = ##, Etc.).
+6.    Print a new line after each iteration.

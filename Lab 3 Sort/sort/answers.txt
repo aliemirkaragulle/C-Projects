@@ -1,0 +1,16 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+Bubble sort, outperforms the other 2 sorting algorithms in a sorted array. Also, it has the same running time with another sorting algorithm which are both
+much higher than the remaining one. Last but not least, the running time between sorted and reversed lists has a significant difference.
+
+sort2 uses: Merge Sort
+
+How do you know?:
+It has a higher running time in a sorted list than the bubble sort but lower than the selection sort. Its running time between sorted, reversed and
+random lists are nearly the same. Also, it has the lowest running time on the random list by far.
+
+sort3 uses: Selection Sort
+
+How do you know?:
+It has nearly similar running time between sorted, reversed and random lists. However, they are much higher than the merge sort. 
